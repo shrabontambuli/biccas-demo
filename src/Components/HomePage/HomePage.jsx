@@ -61,6 +61,7 @@ const HomePage = () => {
                                     <svg className="mx-auto" xmlns="http://www.w3.org/2000/svg" width="14" height="11" viewBox="0 0 14 11" fill="none">
                                         <path d="M1 4.73309L5.17391 8.99976L13 0.999756" stroke="white" stroke-width="2" />
                                     </svg>
+                                    
                                 </div>
 
                                 <div className="bg-[#FBC75E] w-10 h-10 pt-2 rounded-xl absolute top-24 lg:top-5 right-20  lg:right-44">
