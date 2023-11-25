@@ -1,6 +1,4 @@
-// import Footer from "@/Components/Footer/Footer";
-// import HomePage from "@/Components/HomePage/HomePage";
-// import Navber from "@/Components/Navber/Navber";
+
 
 import Image from "next/image";
 import Image1 from "../../public/images/1.jpg";
